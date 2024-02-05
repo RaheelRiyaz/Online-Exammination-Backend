@@ -1,0 +1,12 @@
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\bin\Debug\net7.0\OnlineExammination.Domain.deps.json
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\bin\Debug\net7.0\OnlineExammination.Domain.dll
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\bin\Debug\net7.0\OnlineExammination.Domain.pdb
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\OnlineExammination.Domain.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\OnlineExammination.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\OnlineExammination.Domain.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\OnlineExammination.Domain.AssemblyInfo.cs
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\OnlineExammination.Domain.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\OnlineExammination.Domain.dll
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\refint\OnlineExammination.Domain.dll
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\OnlineExammination.Domain.pdb
+D:\DotNetCoreApi\OnlineExammination.Api\OnlineExammination.Domain\obj\Debug\net7.0\ref\OnlineExammination.Domain.dll

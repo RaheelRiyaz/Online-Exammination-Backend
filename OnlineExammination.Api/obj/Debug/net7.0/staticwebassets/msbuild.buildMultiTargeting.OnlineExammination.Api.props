@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OnlineExammination.Api.props" />
+</Project>

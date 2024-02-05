@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\195e9cf1-6052-4ef9-b4f3-36bf78658796pofile.jpg",
+      "PackagePath": "staticwebassets\\Files\\195e9cf1-6052-4ef9-b4f3-36bf78658796pofile.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\23669cc1-6840-4721-aa0a-f6dc361b0f2dpofile.jpg",
+      "PackagePath": "staticwebassets\\Files\\23669cc1-6840-4721-aa0a-f6dc361b0f2dpofile.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\4581b8a8-f9b1-4093-b43b-00e3536754f3icons8-trekking-16 (3).png",
+      "PackagePath": "staticwebassets\\Files\\4581b8a8-f9b1-4093-b43b-00e3536754f3icons8-trekking-16 (3).png"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\4b26ccd2-b08a-4ded-984b-b9747c4e96a0wallpaper.jpg",
+      "PackagePath": "staticwebassets\\Files\\4b26ccd2-b08a-4ded-984b-b9747c4e96a0wallpaper.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\60640fb9-5dec-4739-bc3c-d115fbd3c627hotel.jpg",
+      "PackagePath": "staticwebassets\\Files\\60640fb9-5dec-4739-bc3c-d115fbd3c627hotel.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\a2cc239f-a735-4716-b835-89e9df71cf62images.jpg",
+      "PackagePath": "staticwebassets\\Files\\a2cc239f-a735-4716-b835-89e9df71cf62images.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\b801de39-5272-4d6e-b5c8-0ddbca921a8epofile.jpg",
+      "PackagePath": "staticwebassets\\Files\\b801de39-5272-4d6e-b5c8-0ddbca921a8epofile.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\f072740c-2d9b-4805-92e7-4b70a384119apofile.jpg",
+      "PackagePath": "staticwebassets\\Files\\f072740c-2d9b-4805-92e7-4b70a384119apofile.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\one.txt",
+      "PackagePath": "staticwebassets\\Files\\one.txt"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\OnlineExammination.Api\\OnlineExammination.Api\\wwwroot\\Files\\user.jpg",
+      "PackagePath": "staticwebassets\\Files\\user.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OnlineExammination.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OnlineExammination.Api.props",
+      "PackagePath": "build\\OnlineExammination.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineExammination.Api.props",
+      "PackagePath": "buildMultiTargeting\\OnlineExammination.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OnlineExammination.Api.props",
+      "PackagePath": "buildTransitive\\OnlineExammination.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
